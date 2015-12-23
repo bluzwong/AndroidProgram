@@ -1,6 +1,0 @@
-This is a test.
-Second test operation!
-Third test operation!
-Have to input username and password?This is a test!
-Maybe the previous operation is https' not ssh's push.
-Use SSH Not HTTPS.
